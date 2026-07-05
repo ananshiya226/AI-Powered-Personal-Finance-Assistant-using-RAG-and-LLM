@@ -1,0 +1,181 @@
+{
+  "users": [],
+  "userProfiles": [],
+  "expenses": [],
+  "expenseCategories": [
+    {
+      "id": "1",
+      "name": "Food",
+      "icon": "Utensils",
+      "color": "#EC4899"
+    },
+    {
+      "id": "2",
+      "name": "Grocery",
+      "icon": "ShoppingCart",
+      "color": "#F43F5E"
+    },
+    {
+      "id": "3",
+      "name": "Rent",
+      "icon": "Home",
+      "color": "#D946EF"
+    },
+    {
+      "id": "4",
+      "name": "Fuel",
+      "icon": "Fuel",
+      "color": "#A855F7"
+    },
+    {
+      "id": "5",
+      "name": "Electricity",
+      "icon": "Zap",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "6",
+      "name": "Water",
+      "icon": "Droplet",
+      "color": "#6366F1"
+    },
+    {
+      "id": "7",
+      "name": "Internet",
+      "icon": "Wifi",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "8",
+      "name": "Entertainment",
+      "icon": "Film",
+      "color": "#06B6D4"
+    },
+    {
+      "id": "9",
+      "name": "Shopping",
+      "icon": "ShoppingBag",
+      "color": "#14B8A6"
+    },
+    {
+      "id": "10",
+      "name": "Medical",
+      "icon": "HeartPulse",
+      "color": "#10B981"
+    },
+    {
+      "id": "11",
+      "name": "Education",
+      "icon": "GraduationCap",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "12",
+      "name": "Travel",
+      "icon": "Plane",
+      "color": "#EF4444"
+    },
+    {
+      "id": "13",
+      "name": "EMI",
+      "icon": "CreditCard",
+      "color": "#6B7280"
+    },
+    {
+      "id": "14",
+      "name": "Investment",
+      "icon": "TrendingUp",
+      "color": "#10B981"
+    },
+    {
+      "id": "15",
+      "name": "Miscellaneous",
+      "icon": "HelpCircle",
+      "color": "#9CA3AF"
+    }
+  ],
+  "monthlyReports": [],
+  "monthlyStatistics": [],
+  "aiRecommendations": [],
+  "notificationLogs": [],
+  "ragDocuments": [
+    {
+      "id": "rag_1",
+      "title": "The 50/30/20 Budgeting Rule",
+      "category": "Budgeting",
+      "tags": [
+        "budgeting",
+        "savings",
+        "planning"
+      ],
+      "content": "The 50/30/20 rule is an intuitive and simple budgeting method to help you manage your money effectively. It splits your after-tax monthly income into three main spending categories:\n1. 50% for Needs: This includes absolute essentials that you must pay to survive and work, such as rent/mortgage, utilities, basic groceries, health insurance, transportation, and minimum loan payments.\n2. 30% for Wants: This is discretionary spending on things that are nice to have but not essential. Examples include dining out, entertainment, shopping, hobbies, subscription services (Netflix, Spotify), and luxury travel.\n3. 20% for Savings and Debt Paydown: This portion goes toward building an emergency fund, investing for retirement (like SIPs, stocks, or mutual funds), and making extra payments on high-interest debt to clear it faster.\nBy maintaining these ratios, you ensure you are always saving for the future while maintaining a comfortable lifestyle."
+    },
+    {
+      "id": "rag_2",
+      "title": "Building a 3-to-6 Month Emergency Fund",
+      "category": "Savings",
+      "tags": [
+        "savings",
+        "emergency-fund",
+        "safety"
+      ],
+      "content": "An emergency fund is a stash of money set aside to cover financial surprises or emergencies. These surprises can include sudden medical emergencies, car breakdown expenses, urgent home repairs, or unexpected job losses.\nHow much do you need?\nMost financial planners recommend saving three to six months' worth of living expenses. If your monthly essential needs (rent, utilities, food) total $2,000, your target emergency fund should be between $6,000 and $12,000.\nWhere should you keep it?\nThe fund must be kept in a highly liquid and safe account, separate from your daily checking account. Good options include High-Yield Savings Accounts (HYSA) or liquid mutual funds, where your money can earn reasonable interest while being instantly accessible when an emergency strikes."
+    },
+    {
+      "id": "rag_3",
+      "title": "Understanding Systematic Investment Plans (SIP)",
+      "category": "Investment",
+      "tags": [
+        "investment",
+        "sip",
+        "wealth-building"
+      ],
+      "content": "A Systematic Investment Plan (SIP) is an investment route offered by mutual funds where you invest a fixed amount of money at regular intervals (usually monthly) instead of making a one-time lump-sum investment.\nBenefits of SIP:\n1. Rupee Cost Averaging: You buy more units when market prices are low and fewer units when prices are high. This averages out the purchase price over time and reduces the risk of market timing.\n2. Power of Compounding: Investing regularly over a long period allows you to earn interest on your interest, leading to exponential wealth creation over 5, 10, or 20 years.\n3. Financial Discipline: Since the amount is auto-debited on a fixed date (ideally just after your salary credit date), it cultivates a habit of saving first and spending later."
+    },
+    {
+      "id": "rag_4",
+      "title": "How to Detect and Eliminate Unnecessary Expenses",
+      "category": "Expense Control",
+      "tags": [
+        "expenses",
+        "saving",
+        "discretionary"
+      ],
+      "content": "Detecting and cutting unnecessary expenses is the fastest way to boost your savings rate without increasing your income. Follow these key steps:\n1. Audit Subscriptions: List all streaming, gaming, fitness, and software subscriptions. Identify any you haven't used in the past 30 days and cancel them immediately.\n2. Limit Food Delivery & Coffee Runs: Dining out and ordering food delivery are often the highest discretionary costs. Try cooking at home more often and limit dining out to weekends.\n3. Implement the 24-Hour Rule: For non-essential shopping items, wait 24 hours before completing the purchase. This cooling-off period eliminates impulsive buys.\n4. Switch to Generic Brands: Buy store brands for groceries and household goods instead of expensive brand names; they are often identical in quality but cost 20-30% less."
+    },
+    {
+      "id": "rag_5",
+      "title": "The Envelope Budgeting Method",
+      "category": "Budgeting",
+      "tags": [
+        "budgeting",
+        "cash",
+        "expense-control"
+      ],
+      "content": "Envelope budgeting is a highly disciplined system for tracking and controlling discretionary spending.\nHow it works:\n1. Identify your high-spending discretionary categories, like Groceries, Dining Out, Entertainment, and Shopping.\n2. Set a strict budget for each category for the month.\n3. Withdraw that exact amount in physical cash or allocate it to virtual dedicated cards/accounts.\n4. Place the cash/allocation into labeled envelopes for each category.\n5. Once the envelope is empty, you cannot spend any more in that category until the next month. This physical or strict visual constraint makes it impossible to overspend."
+    },
+    {
+      "id": "rag_6",
+      "title": "Zero-Based Budgeting",
+      "category": "Budgeting",
+      "tags": [
+        "budgeting",
+        "advanced",
+        "savings"
+      ],
+      "content": "Zero-Based Budgeting (ZBB) is a budgeting technique where every single dollar or rupee of your monthly income is allocated to a specific category, so that your income minus expenses/savings equals exactly zero.\nUnlike traditional budgeting where you spend first and save what remains, Zero-Based Budgeting forces you to justify and assign a job to every unit of currency before the month starts.\nFormula: Income - Expenses - Savings - Debt Payments = 0\nFor example, if you earn $4,000:\n- Rent: $1,200\n- Groceries: $400\n- Utilities: $200\n- SIP Investment: $800\n- Emergency Savings: $400\n- Wants/Dining: $600\n- Debt Paydown: $400\nSum = $4,000. Remaining unallocated = $0. This ensures complete awareness and accountability for where every cent goes."
+    },
+    {
+      "id": "rag_7",
+      "title": "Understanding Government Savings Schemes & Secure Instruments",
+      "category": "Investment",
+      "tags": [
+        "investment",
+        "savings-schemes",
+        "low-risk"
+      ],
+      "content": "For conservative investors or individuals building baseline wealth, government-backed saving schemes offer high security and guaranteed returns.\nKey Secure Instruments:\n1. Recurring Deposits (RD): A bank product where you deposit a fixed sum monthly for a fixed term (e.g., 12 months) and earn a fixed interest rate.\n2. Public Provident Fund (PPF) / National Pension Scheme (NPS): Long-term retirement accounts with tax benefits and compounding interest.\n3. Certificates of Deposit (CD) or Treasury Bills: Short-to-medium-term instruments backed by government credit, ideal for storing cash that you'll need in 1-2 years."
+    }
+  ],
+  "documentEmbeddings": []
+}

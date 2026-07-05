@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Finance Assistant",
+  "description": "Full-stack AI-powered Personal Finance Assistant with RAG, budget warnings, automatic scheduling, and interactive financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
